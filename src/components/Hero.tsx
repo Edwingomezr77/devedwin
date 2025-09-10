@@ -27,12 +27,12 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-16">
             <div className="flex items-center space-x-2 text-white border border-white/30 px-6 py-4 rounded-lg">
               <Phone className="w-5 h-5" />
-              <span className="font-medium">(+52) 614 187-4158</span>
+              <span className="font-medium">(+52) 614 183-1229</span>
             </div>
             
             <div className="flex items-center space-x-2 text-white border border-white/30 px-6 py-4 rounded-lg">
               <Mail className="w-5 h-5" />
-              <span className="font-medium">edwingomezr@outlook.com</span>
+              <span className="font-medium">example</span>
             </div>
           </div>
 
